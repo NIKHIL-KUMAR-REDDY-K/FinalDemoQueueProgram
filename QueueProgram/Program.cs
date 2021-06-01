@@ -9,6 +9,11 @@ namespace QueueProgram
 
         static void Main(string[] args)
         {
+            void add()
+            {
+                Console.WriteLine(10+20);
+            }
+            add();
             queue.Enqueue("string1");
             queue.Enqueue("string2");
             queue.Enqueue("string3");
