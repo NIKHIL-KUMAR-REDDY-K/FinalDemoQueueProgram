@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\K NIKHIL KUMAR REDDY\\OneDrive\\Desktop\\DemooGit\\Branch2\\FinalDemoQueueProgram\\QueueProgram\\QueueProgram.csproj",
+      "projectUniqueName": "C:\\Users\\K NIKHIL KUMAR REDDY\\OneDrive\\Desktop\\DemooGit\\ChildBranch2-2\\FinalDemoQueueProgram\\QueueProgram\\QueueProgram.csproj",
       "projectName": "QueueProgram",
-      "projectPath": "C:\\Users\\K NIKHIL KUMAR REDDY\\OneDrive\\Desktop\\DemooGit\\Branch2\\FinalDemoQueueProgram\\QueueProgram\\QueueProgram.csproj",
+      "projectPath": "C:\\Users\\K NIKHIL KUMAR REDDY\\OneDrive\\Desktop\\DemooGit\\ChildBranch2-2\\FinalDemoQueueProgram\\QueueProgram\\QueueProgram.csproj",
       "packagesPath": "C:\\Users\\K NIKHIL KUMAR REDDY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\K NIKHIL KUMAR REDDY\\OneDrive\\Desktop\\DemooGit\\Branch2\\FinalDemoQueueProgram\\QueueProgram\\obj\\",
+      "outputPath": "C:\\Users\\K NIKHIL KUMAR REDDY\\OneDrive\\Desktop\\DemooGit\\ChildBranch2-2\\FinalDemoQueueProgram\\QueueProgram\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
