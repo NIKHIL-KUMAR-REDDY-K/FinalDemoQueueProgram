@@ -12,6 +12,7 @@ namespace QueueProgram
             void add()
             {
                 Console.WriteLine(10+20);
+                Console.WriteLine("Adding");
             }
             add();
             queue.Enqueue("string1");
